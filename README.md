@@ -9,7 +9,7 @@ Projet1_Bibliothèque est une application de gestion de bibliothèque écrite en
 Pour installer et utiliser cette application, suivez les étapes ci-dessous:
 
 1. Clonez le dépôt GitHub sur votre machine locale.
-2. Ouvrez le projet dans votre environnement de développement C++ préféré.
+2. Ouvrez le projet dans votre environnement de développement C++ préféré (visual studio de préference).
 3. Compilez et exécutez le programme.
 
 ## Utilisation
@@ -22,7 +22,7 @@ Les contributions sont les bienvenues. Pour contribuer, veuillez créer une issu
 
 ## Licence
 
-Ce projet est sous licence GNU General Public License v3.0. Voir le fichier `LICENSE` pour plus de détails.
+Ce projet est sous licence GNU General Public License v3.0. Voir le fichier `License` pour plus de détails.
 
 ## Auteurs
 
